@@ -1,0 +1,45 @@
+body{
+	font-size: 16px;
+	color:black;
+
+}
+/*****HEADER******/
+#header-nav{
+	background-color: #87CBF2;
+	border-radius: 0;
+	border: 0;
+}
+div.n-contain{
+	margin:auto;
+	width:95%;
+}
+.container .navbar-brand{
+	color:black;
+	font-size:2.5em;
+}
+.container .navbar-brand a:hover, .container .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+  background-color: #DFF8FE;
+}
+#nav-list a:hover {
+  background: grey;
+}
+#nav-list a span {
+  font-size: 1.3em;
+}
+
+/****MAIN BODY******/
+#m-text{
+	width:95%;
+	margin:auto;
+	background-color: #B0F3F2;
+}
+
+	
